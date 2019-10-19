@@ -1,7 +1,7 @@
 using UnityEngine;
 using System;
 using System.Collections.Generic;
-using UnityEngine.Experimental.Director;
+//using UnityEngine.Experimental.Director;
 
 
 public class ToonAnimations:MonoBehaviour{
