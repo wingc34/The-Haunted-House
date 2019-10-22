@@ -24,7 +24,7 @@ Platform: Andriod
 ![gameplay](screenshots/gameplay.png)
 ![finishscreen](screenshots/FinishScreen.png)
 
-## Remark
+## Remarks
 This game developed by 2 people included me
 
 All 3D model come from Unity Store
